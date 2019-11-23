@@ -1,11 +1,11 @@
 # Instafood app in React Native
 
-![Settings Window]https://github.com/samyka/Instafood/blob/master/ScreenShot/Home.png)
-![Settings Window] https://github.com/samyka/Instafood/blob/master/ScreenShot/Home.png)
-![Settings Window]https://github.com/samyka/Instafood/blob/master/ScreenShot/foo-details.png)
-![ScreenShot]https://github.com/samyka/Instafood/blob/master/ScreenShot/Categories.png)
-![ScreenShot]https://github.com/samyka/Instafood/blob/master/ScreenShot/Categories-list.png)
-![ScreenShot]https://github.com/samyka/Instafood/blob/master/ScreenShot/Search-result.png)
+![ScreenShot](https://github.com/samyka/Instafood/blob/master/ScreenShot/Home.png)
+![ScreenShot](https://github.com/samyka/Instafood/blob/master/ScreenShot/Home.png)
+![ScreenShot](https://github.com/samyka/Instafood/blob/master/ScreenShot/foo-details.png)
+![ScreenShot](https://github.com/samyka/Instafood/blob/master/ScreenShot/Categories.png)
+![ScreenShot](https://github.com/samyka/Instafood/blob/master/ScreenShot/Categories-list.png)
+![ScreenShot](https://github.com/samyka/Instafood/blob/master/ScreenShot/Search-result.png)
 
 React Native starter kit, featuring a Instafood app, to bootstrap your mobile app development. Learn React Native by working on a real project. Get familiar with various native components, navigation, redux and more.
 
