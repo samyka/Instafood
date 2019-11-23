@@ -1,7 +1,8 @@
 # Instafood app in React Native
 
-![ScreenShot]https://github.com/samyka/Instafood/blob/master/ScreenShot/Home.png)
-![ScreenShot]https://github.com/samyka/Instafood/blob/master/ScreenShot/foo-details.png)
+![Settings Window]https://github.com/samyka/Instafood/blob/master/ScreenShot/Home.png)
+![Settings Window] https://github.com/samyka/Instafood/blob/master/ScreenShot/Home.png)
+![Settings Window]https://github.com/samyka/Instafood/blob/master/ScreenShot/foo-details.png)
 ![ScreenShot]https://github.com/samyka/Instafood/blob/master/ScreenShot/Categories.png)
 ![ScreenShot]https://github.com/samyka/Instafood/blob/master/ScreenShot/Categories-list.png)
 ![ScreenShot]https://github.com/samyka/Instafood/blob/master/ScreenShot/Search-result.png)
