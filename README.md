@@ -1,11 +1,11 @@
 # Instafood app in React Native
 
 <div align="center">
-    <img src="https://github.com/samyka/Instafood/blob/master/ScreenShot/Home.png" width="400px"</img>
-    <img src="https://github.com/samyka/Instafood/blob/master/ScreenShot/foo-details.png" width="400px"</img>
-    <img src="https://github.com/samyka/Instafood/blob/master/ScreenShot/Categories.png" width="400px"</img>
-    <img src="https://github.com/samyka/Instafood/blob/master/ScreenShot/Categories-list.png" width="400px"</img>
-    <img src="https://github.com/samyka/Instafood/blob/master/ScreenShot/Search-result.png" width="400px"</img>
+    <img src="https://github.com/samyka/Instafood/blob/master/ScreenShot/Home.png" width="200px"</img>
+    <img src="https://github.com/samyka/Instafood/blob/master/ScreenShot/foo-details.png" width="200px"</img>
+    <img src="https://github.com/samyka/Instafood/blob/master/ScreenShot/Categories.png" width="200px"</img>
+    <img src="https://github.com/samyka/Instafood/blob/master/ScreenShot/Categories-list.png" width="200px"</img>
+    <img src="https://github.com/samyka/Instafood/blob/master/ScreenShot/Search-result.png" width="200px"</img>
 </div>
 
 
