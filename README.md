@@ -1,6 +1,6 @@
 # Instafood app in React Native
 
-<center><a href="https://www.instamobile.io/app-templates/food-app-template/"><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.56.44-PM.png" /></a></center>
+![ScreenShot](https://raw.github.com/samyka/Instafood/ScreenShot/menu)
 
 React Native starter kit, featuring a Instafood app, to bootstrap your mobile app development. Learn React Native by working on a real project. Get familiar with various native components, navigation, redux and more.
 
